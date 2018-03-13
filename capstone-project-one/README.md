@@ -1,4 +1,4 @@
-# index.html
+## index.html
 
 - FriendLy Complex Component
 - Avatar Component
@@ -8,6 +8,6 @@
     - Share Component
     - Add Component
 
-# License
+## License
 
 MIT
