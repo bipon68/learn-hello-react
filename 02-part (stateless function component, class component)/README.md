@@ -1,4 +1,4 @@
-### Function, Stateless Functional Components
+### Function, Stateless Functional Components, Class Component
 
 - Function
 - Stateless Functional Components
