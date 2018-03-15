@@ -1,4 +1,4 @@
-### Array Object, Method, Map, function pattern component, class patter component
+### Array Object, Method, Map, function pattern component, class pattern component
 
 ### index.html
 - Create FamilyList component
