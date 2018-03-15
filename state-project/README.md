@@ -5,8 +5,3 @@
 - State change in add event
 - Data pass by props
 - bind(this) in react
-
-
-## License
-
-MIT

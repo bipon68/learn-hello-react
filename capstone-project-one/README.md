@@ -35,8 +35,3 @@
 - renamed props.people to people
 - GetConnected Complex Component
 - Challenge - pass people array to the FriendLy component
-
-
-## License
-
-MIT
